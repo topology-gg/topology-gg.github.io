@@ -45,22 +45,22 @@ section.title {
 
 section.title .type {
   font-family: 'Montserrat', sans-serif;
-  font-size: 72px;
+  font-size: 64px;
   font-weight: 600;
-  padding-right: 10px;
+  padding-right: 12px;
   color: #f0f0f0;
 }
 
 section.title .logo {
-  width: 72px;
-  height: 72px;
+  width: 64px;
+  height: 64px;
   margin-bottom: 8px;
-  margin-right: -10px;
+  margin-right: -12px;
 }
 
 section.subtitle {
   font-family: 'Montserrat', sans-serif;
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 600;
   color: #f0f0f0;
   text-align: center;
@@ -87,7 +87,7 @@ section.subtitle::before {
 
 section.links {
   font-family: 'Montserrat', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
   text-align: center;
   padding-top: 120px;
